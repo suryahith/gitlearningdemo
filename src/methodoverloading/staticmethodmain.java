@@ -8,7 +8,10 @@ public class staticmethodmain {
 	{
 		System.out.println("value of nonstatic var is" +a);
 		System.out.println("value of static var is" +b);
-		System.out.println("how are you doing");
+		for (int i=0;i<34;i++)
+		{System.out.println("Surya");
+			
+		}
 	}
 	
 	public static void statictest()
