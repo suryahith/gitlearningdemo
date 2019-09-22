@@ -7,7 +7,7 @@ public class staticmethodmain1 {
 			// TODO Auto-generated method stub
 
 			staticmethodmain s1=new staticmethodmain();
-			s1.a=123;
+			s1.a=12345;
 			staticmethodmain.b=30;
 			
 			staticmethodmain.statictest();
