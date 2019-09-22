@@ -8,6 +8,7 @@ public class staticmethodmain {
 	{
 		System.out.println("value of nonstatic var is" +a);
 		System.out.println("value of static var is" +b);
+		System.out.println("how are you doing");
 	}
 	
 	public static void statictest()
